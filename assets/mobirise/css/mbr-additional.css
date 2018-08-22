@@ -2768,71 +2768,8 @@ body {
 .cid-qVspllyR7X .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qVElA7tC8p {
-  padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qVElA7tC8p .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qVElA7tC8p .section-text {
-  padding: 2rem 0;
-}
-.cid-qVElA7tC8p .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qVElA7tC8p .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qVElNoMUMX {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qVElNoMUMX .counter-container {
-  color: #767676;
-}
-.cid-qVElNoMUMX .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-qVElNoMUMX .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-qVElNoMUMX .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-qVElNoMUMX .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #e1891e;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  border-radius: 0;
-}
-.cid-qVElNoMUMX .mbr-text B {
-  color: #232323;
-}
 .cid-qVspllVcfh {
-  padding-top: 45px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
